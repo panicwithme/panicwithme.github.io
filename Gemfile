@@ -33,3 +33,5 @@ gem "tale"
 gem "webrick", "~> 1.7"
 gem "jekyll-remote-theme"
 gem "jekyll-paginate"
+
+gem "github-pages", group: :jekyll_plugins
