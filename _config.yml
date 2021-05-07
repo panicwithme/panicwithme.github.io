@@ -19,13 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: panicwithme
-email: panicwithme@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my website that I will probably share posts about technology, cybersecurity,
   Linux, command line, software development, code, etc. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://panicwithme.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  panicwithme
+author:
+  name: panicwithme
+  email: panicwithme@protonmail.com
 
 # Build settings
 plugins:
