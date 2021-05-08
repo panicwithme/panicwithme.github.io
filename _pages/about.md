@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hi! I am a senior CENG undergraduate student at Hacettepe University.
-12 I also work part-time as a Jr. Security Analyst.
+I also work part-time as a Jr. Security Analyst.
 
 <p align="center">
    <a href="https://github.com/panicwithme"><img src="/img/GitHub-32px.png"></a>
