@@ -7,6 +7,8 @@ permalink: /about/
 Hi! I am a senior CENG undergraduate student at Hacettepe University.
 I also work part-time as a Jr. Security Analyst.
 
+
 <p align="center">
-   [![GitHub logo](/img/GitHub-32px.png)](https://github.com/panicwithme) [![LinkedIn logo](/img/LinkedIn-32px.png)](https://www.linkedin.com/in/fatmacigdemtosun)
+   <a href="https://github.com/panicwithme"><img src="/img/GitHub-32px.png"></a>
+   <a href="https://www.linkedin.com/fatmacigdemtosun"><img src="/img/LinkedIn-32px.png"></a>
 </p>
