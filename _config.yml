@@ -61,3 +61,5 @@ paginate:     5
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme
+
+google_analytics: UA-196594557-1
