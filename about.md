@@ -4,11 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Hi! I am a senior CENG undergraduate student at Hacettepe University.
-I also work part-time as a Jr. Security Analyst.
+<center>
+Hi! I am a senior CENG undergraduate student and part-time Jr. Security Analyst.
+<br><br>
+I like forensics, true crime and Linux.
+<br><br><br>
 
-
-<p align="center">
-   <a href="https://github.com/panicwithme"><img src="/img/GitHub-32px.png"></a>
-   <a href="https://www.linkedin.com/in/fatmacigdemtosun"><img src="/img/LinkedIn-32px.png"></a>
-</p>
+<table>
+    <tr>
+	<td><a href="{{ site.author.github }}"><img src="/img/github.png"></a></td>
+        <td><a href="{{ site.author.linkedin }}"><img src="/img/linkedin.png" height="32" width="32"></a></td>
+        <td><a href="mailto:{{ site.author.email }}"><img src="/img/mail.png" height="33" width="33"></a></td>
+    </tr>
+</table>
+</center>

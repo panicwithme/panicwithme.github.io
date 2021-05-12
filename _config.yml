@@ -24,10 +24,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   Linux, command line, software development, code, etc. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://panicwithme.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  panicwithme
+github_username: panicwithme
 author:
   name: panicwithme
-  email: panicwithme@protonmail.com
+  email: cidem@panicwithme.com
+  url: https://panicwithme.com
+  github: https://github.com/panicwithme
+  linkedin: https://www.linkedin.com/in/fcigdemt
 
 # Build settings
 plugins:
