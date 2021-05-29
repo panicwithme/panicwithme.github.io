@@ -15,6 +15,7 @@ I like forensics, true crime and Linux.
 	<td><a href="{{ site.author.github }}"><img src="/img/github.png" height="32" width="32"></a></td>
         <td><a href="{{ site.author.linkedin }}"><img src="/img/linkedin.png" height="32" width="32"></a></td>
         <td><a href="mailto:{{ site.author.email }}"><img src="/img/mail.png" height="33" width="33"></a></td>
+	<td><a href="{{ site.author.twitter }}"><img src="/img/twitter.png" height="32" width="32"></a></td>
     </tr>
 </table>
 </center>
