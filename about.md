@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <center>
-Hi! I am a senior CENG undergraduate student and part-time Jr. Security Analyst.
+Hi!
 <br><br>
 I like forensics, true crime and Linux.
 <br><br><br>
