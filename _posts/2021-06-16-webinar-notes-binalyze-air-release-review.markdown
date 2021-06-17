@@ -3,7 +3,6 @@ layout: post
 title: "Webinar Notes // Binalyze AIR 1.7.50 Release Review"
 date: 2021-06-16 23:00:00 +0300
 tags: Webinar Product 
-hidden: true
 ---
 
 ![banner](/img/webinar/2021june/binalyze1.png)

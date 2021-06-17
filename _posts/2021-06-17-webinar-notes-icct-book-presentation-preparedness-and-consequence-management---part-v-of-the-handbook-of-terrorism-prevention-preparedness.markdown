@@ -2,8 +2,7 @@
 layout: post
 title: "Webinar Notes // ICCT Book Presentation: Preparedness and Consequence Management - Part V of the Handbook of Terrorism Prevention & Preparedness"
 date: 2021-06-17 23:00:00 +0300
-tags: Webinar Terrorism Counter-Terrorism Sociology
-hidden: true 
+tags: Webinar Terrorism Counter-Terrorism Sociology 
 ---
 
 **You can find the whole handbook [here](https://icct.nl/handbook-of-terrorism-prevention-and-preparedness/). Open access, completely free.**
