@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Webinar Notes // 2021 June"
+date: 2021-06-17 23:00:00 +0300
+tags: Webinar OSINT Product Terrorism Counter-Terrorism Sociology
+hidden: true
+---
+
+
+1. [Advanced LinkedIn for OSINT Research]({% post_url 2021-06-15-webinar-notes-advanced-linkedin-for-osint-research %})
+2. [Binalyze AIR 1.7.50 Release Review]({% post_url 2021-06-16-webinar-notes-binalyze-air-release-review %})
+3. [ICCT Book Presentation: Preparedness and Consequence Management - Part V of the Handbook of Terrorism Prevention & Preparedness]({% post_url 2021-06-17-webinar-notes-icct-book-presentation-preparedness-and-consequence-management---part-v-of-the-handbook-of-terrorism-prevention-preparedness %})
