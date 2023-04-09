@@ -5,4 +5,5 @@ date:   2023-04-09 00:00:00 +0300
 tags: Web Application HTTP
 ---
 
-<embed src="https://drive.proton.me/urls/7XXJ9JK8BC#ZIDoZTtPwV1w" type="application/pdf" />
+[Link to the PDF](https://drive.proton.me/urls/7XXJ9JK8BC#ZIDoZTtPwV1w)
+
